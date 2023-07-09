@@ -1,6 +1,6 @@
-# blackops
+# deployPotato
 
-blackops is a comprehensive DevOps toolkit designed to empower developers to manage and monitor their deployments. This CLI tool simplifies the deployment process, provides valuable insights through logs and metrics, and keeps the team in sync with alerts. Initial support is provided for AWS, but the flexible design allows for future expansion to other cloud providers.
+deployPotato is a comprehensive DevOps toolkit designed to empower developers to manage and monitor their deployments. This CLI tool simplifies the deployment process, provides valuable insights through logs and metrics, and keeps the team in sync with alerts. Initial support is provided for AWS, but the flexible design allows for future expansion to other cloud providers.
 
 ## Features
 
@@ -45,7 +45,7 @@ We love to receive contributions from the community! Please read our [Contributi
 
 ## License
 
-blackops is released under the [MIT License](./LICENSE).
+deployPotato is released under the [MIT License](./LICENSE).
 
 ## Questions?
 
