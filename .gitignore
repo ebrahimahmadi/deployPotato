@@ -1,0 +1,41 @@
+# Binaries, plugins, libs
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Output directories
+/dist
+/bin
+
+# Dependency directories
+/vendor/
+
+# IDEs and editors
+/.idea
+*.swp
+*.swo
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Go specific
+*.o
+*.a
+*.p
+/go.sum
+*.mod
+
+# Log files
+*.log
+
+# Test binary, build with 'go test -c'
+*.test
+
+# Dependency directories (remove the comment below if necessary)
+#/vendor/
